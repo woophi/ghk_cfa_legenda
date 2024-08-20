@@ -320,7 +320,7 @@ export const App = () => {
               Дата погашения
             </Typography.Text>
             <Typography.Text tag="p" view="primary-medium" weight="medium" defaultMargins={false}>
-              01.10.2027
+              01.10.2025
             </Typography.Text>
           </div>
 
