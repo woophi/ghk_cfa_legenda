@@ -84,7 +84,7 @@ export const App = () => {
               Сбор заявок до
             </Typography.Text>
             <Typography.Text view="primary-small" defaultMargins={false} weight="bold" color="primary-inverted">
-              01.09.2024 18:00 мск
+              01.10.2024 18:00 мск
             </Typography.Text>
           </div>
         </div>
@@ -272,7 +272,7 @@ export const App = () => {
               Дата выпуска
             </Typography.Text>
             <Typography.Text tag="p" view="primary-medium" weight="medium" defaultMargins={false}>
-              01.09.2024
+              01.10.2024
             </Typography.Text>
           </div>
 
@@ -296,7 +296,7 @@ export const App = () => {
                 Возможная продажа не ранее
               </Typography.Text>
               <Typography.Text tag="p" view="primary-medium" weight="medium" defaultMargins={false}>
-                05.09.2024
+                05.10.2024
               </Typography.Text>
             </div>
 
@@ -320,7 +320,7 @@ export const App = () => {
               Дата погашения
             </Typography.Text>
             <Typography.Text tag="p" view="primary-medium" weight="medium" defaultMargins={false}>
-              01.09.2027
+              01.10.2027
             </Typography.Text>
           </div>
 
