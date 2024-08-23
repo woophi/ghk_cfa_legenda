@@ -17,7 +17,7 @@ export const data = {
   cfaPriceNumber: 100_000,
   cfaVolume: 'от 100 000 ₽ до 25 000 000 ₽',
   cfaPeriodPayment: 'В конце срока',
-  cfaDuration: '3 года',
+  cfaDuration: '1 год',
   hideSellDate: true,
 
   cfaCoefType: 'Фиксированная',
